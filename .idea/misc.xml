@@ -3,9 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/drawable-anydpi/ic_leader.xml" value="0.1625" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/drawable-anydpi/ic_list.xml" value="0.1625" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/drawable/button_border_gray.xml" value="0.1625" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/drawable/button_corner_stroke.xml" value="0.1625" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/drawable/edit_text_corner.xml" value="0.1625" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/drawable/shape_border_rounded.xml" value="0.1625" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/layout/activity_intro.xml" value="0.15307971014492755" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/layout/fragment_colliction.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/layout/fragment_first.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/layout/fragment_home.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/layout/fragment_message.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/layout/fragment_search.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/layout/item_categories.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/layout/item_colliction.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/layout/item_home.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/layout/item_message.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/layout/item_restaurant.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/layout/item_search.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/layout/item_view_pager2.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/ExamTest5Modul/app/src/main/res/menu/menu.xml" value="0.24375" />
       </map>
     </option>
   </component>

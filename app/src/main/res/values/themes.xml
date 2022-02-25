@@ -19,4 +19,8 @@
     <style name="rounded_corner">
         <item name="cornerSize">15%</item>
     </style>
+    <style name="BottomNavigationTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="android:textColorSecondary">@color/deafult</item>
+    </style>
 </resources>
